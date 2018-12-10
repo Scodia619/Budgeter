@@ -1,0 +1,3 @@
+Netflix, 8, 10
+Phone, 38, 12
+Amazon, 8, 19
